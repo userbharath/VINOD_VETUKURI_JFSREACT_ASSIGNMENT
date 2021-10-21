@@ -1,8 +1,7 @@
-#Assignment html CSS 
-#Assignment CSS Javascript
+# Assignment html CSS Javascript
 This is a test project for Assignment
-##Languages used
--Javascript
--HTML
--CSS
-author vinod
+## Languages used
+- Javascript
+- HTML
+- CSS
+> Author vinod
