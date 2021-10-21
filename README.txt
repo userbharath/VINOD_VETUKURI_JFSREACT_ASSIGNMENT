@@ -1,4 +1,4 @@
-#Assignment CSS
+#Assignment CSS Javascript
 This is a test project for Assignment
 ##Languages used
 -Javascript
